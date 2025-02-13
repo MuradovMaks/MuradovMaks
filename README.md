@@ -17,7 +17,6 @@ At now I specialize on ML/DL/AI
 
 <p align="left">
 </a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 </p>
 
 
@@ -31,8 +30,3 @@ At now I specialize on ML/DL/AI
 
 <div width="100%" align="center"><a href="https://github.com/MuradovMaks/zentist" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=MuradovMaks&repo=zentist&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-<div width="100%" align="center"><a href="https://github.com/MuradovMaks/Prediction-of-Boxing-Matches" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=MuradovMaks&repo=Prediction-of-Boxing-Matches&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/MuradovMaks/Parkinson_Classification_XGBoost" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=MuradovMaks&repo=Parkinson_Classification_XGBoost&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<div width="100%" align="right"><a href="https://github.com/MuradovMaks/EfficientNetV2S_Stanford_dogs" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=MuradovMaks&repo=EfficientNetV2S_Stanford_dogs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
