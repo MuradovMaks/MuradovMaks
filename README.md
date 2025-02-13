@@ -5,6 +5,7 @@ I'm Qa engineer and ML engineer in future.
 ------------------------------------------
 
 I have been testing Web,Banking, Games product for 3+ years.I like programming ,and analys. I have been College education in IT.
+At now I specialize on ML/DL/AI
 
 * 🌍  I'm based in Barnaul,Russia
 * ✉️  You can contact me at [koreantech620@mail.ru](mailto:koreantech620@mail.ru)
