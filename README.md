@@ -8,7 +8,7 @@ I have been testing Web,Banking, Games product for 3+ years.I like programming ,
 
 * 🌍  I'm based in Barnaul,Russia
 * ✉️  You can contact me at [koreantech620@mail.ru](mailto:koreantech620@mail.ru)
-* 🧠  I'm learning ML&AI (Python,PyTorch,TensorFlow,NumPy,Matpolib)
+* 🧠  I'm learning ML&AI (Python,PyTorch,TensorFlow,NumPy,Matpolib,Keras,sklearn,seaborn)
 * ⚡  Consistency is a key for success
 
 ### Skills
