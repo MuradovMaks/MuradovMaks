@@ -29,3 +29,9 @@ At now I specialize on ML/DL/AI
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/MuradovMaks/zentist" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=MuradovMaks&repo=zentist&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+<div width="100%" align="center"><a href="https://github.com/MuradovMaks/Prediction-of-Boxing-Matches" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=MuradovMaks&repo=zentist&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+<div width="100%" align="center"><a href="https://github.com/MuradovMaks/Parkinson_Classification_XGBoost" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=MuradovMaks&repo=zentist&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+<div width="100%" align="center"><a href="https://github.com/MuradovMaks/EfficientNetV2S_Stanford_dogs" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=MuradovMaks&repo=zentist&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
