@@ -27,28 +27,34 @@ I have been testing Web,Banking, Games product for 3+ years.I like programming ,
 
 <a href="https://github.com/MuradovMaks" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuradovMaks&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+<hr></hr>
 PET проекты:
 📌 Предсказание боксерских поединков 
-Создал модель,которая предсказывает победителя в боксерском матче. Ссылка на проект:<link>https://github.com/MuradovMaks/Prediction-of-Boxing-Matches</link>
+Создал модель,которая предсказывает победителя в боксерском матче. 
+Ссылка на проект:<link>https://github.com/MuradovMaks/Prediction-of-Boxing-Matches</link>
 
 Стек: Python, Sklearn, Numpy, Pandas, XGBoost,RandomForest,HistGradientClassifier
 
 📌 Распознавание текста русских писателей
-Разработал модель распознавания текста по русским писателям,для ответа на вопрос: Кто написал сей текст. Ссылка на проект: <link>https://github.com/MuradovMaks/Text-recognition-of-Russian-writers</link>
+Разработал модель распознавания текста по русским писателям,для ответа на вопрос: Кто написал сей текст.
+Ссылка на проект: <link>https://github.com/MuradovMaks/Text-recognition-of-Russian-writers</link>
 
 Стек: Python, NLP, Navec, Matplotlib,Keras
 
 📌 Классификация пород собак с применением предобученной модели EfficientNet2VS 
-Создал модель для классификации пород собак. Ссылка на проект: <link>https://github.com/MuradovMaks/EfficientNetV2S_Stanford_dogs</link>
+Создал модель для классификации пород собак. 
+Ссылка на проект: <link>https://github.com/MuradovMaks/EfficientNetV2S_Stanford_dogs</link>
  
 Стек: Python, matplotlib, pandas, Keras, Tensorflow, EfficientNet2VS, CNN
 
 📌 Прогнозирование временных рядов и построение корреляции на датасете Apple 
-Создал модель прогнозирования временных рядов с корреляцией  Ссылка на проект: <link>https://github.com/MuradovMaks/TimeSeries_and_autocorrelation</link>
+Создал модель прогнозирования временных рядов с корреляцией 
+Ссылка на проект: <link>https://github.com/MuradovMaks/TimeSeries_and_autocorrelation</link>
 
 Стек: Python,Keras,NumPy,Pandas,Sklearn,RNN,Dense,one-dimensional CNN
 
 📌Распознавание болезни паркинсона на ранней стадии с использованием XGBoost
-Модель которая распознает болезнь Паркинсона на начальной стадии <link>https://github.com/MuradovMaks/Parkinson_Classification_XGBoost/tree/main</link>
+Модель которая распознает болезнь Паркинсона на начальной стадии 
+Ссылка на проект: <link>https://github.com/MuradovMaks/Parkinson_Classification_XGBoost/tree/main</link>
 
 Стек: Python,XGBoost,NumPy,Pandas,sklearn,matplotlib
