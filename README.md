@@ -38,6 +38,7 @@ PET проекты:
 Стек: Python, Sklearn, Numpy, Pandas, XGBoost,RandomForest,HistGradientClassifier
 <hr></hr>
 📌 Мультиклассовая сегментация
+
 Создал модель,которая сегментирует уличные фотографии снятые с дрона. 
 
 Ссылка на проект: <link>https://github.com/MuradovMaks/MultiClass_Segmentation_U-net</link>
@@ -45,6 +46,7 @@ PET проекты:
 Стек: Python,CV,U-net,CNN,Pandas,NumPy,keras,tensorflow,albumentation,callbacks,Conv2D
 <hr></hr>
 📌 Распознавание текста русских писателей
+
 Разработал модель распознавания текста по русским писателям,для ответа на вопрос: Кто написал сей текст.
 
 Ссылка на проект: <link>https://github.com/MuradovMaks/Text-recognition-of-Russian-writers</link>
