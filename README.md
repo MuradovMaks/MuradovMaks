@@ -75,3 +75,11 @@ PET проекты:
 Ссылка на проект: <link>https://github.com/MuradovMaks/Parkinson_Classification_XGBoost/tree/main</link>
 
 Стек: Python,XGBoost,NumPy,Pandas,sklearn,matplotlib
+
+<hr></hr>
+📌Генерация музыкальный произведений на архитектуре RNN
+Модель генерирует музыку на произведениях Шопена и Моцарта
+
+Ссылка на проект: <link>https://github.com/MuradovMaks/MusicGeneration_LSTM</link>
+
+Стек: Python,music21,NumPy,Pandas,sklearn,matplotlib,Keras,LSTM,RNN,Audio
