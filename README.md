@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Max
 ===========================================================================================================================
 
-I'm Qa engineer and ML engineer .
+I'm Qa engineer .
 ------------------------------------------
 
 I have been testing Web,Banking, Games product for 3+ years.I like programming ,and analys. I have been College education in IT.
